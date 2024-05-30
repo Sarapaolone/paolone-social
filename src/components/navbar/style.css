@@ -1,0 +1,36 @@
+
+.nome {
+  font-family: "Playfair Display";
+  text-align: center;
+  font-size: 45px;
+  color: beige;
+  margin-left: 20px;
+  padding: 0 20px;
+  transition: color 0.3s ease;
+  margin-top: 0px;
+}
+
+.fascia {
+  flex-Direction: row;
+  background-Color: #9370DB;
+  border-Radius: 10px;
+  align-Items: center;
+  margin-top: 0px;
+}
+
+.bottone {
+  border: none;
+  background-color: plum;
+  text-align: center;
+  margin: 5px;
+  border-Radius: 20px;
+  color: rgb(42, 5, 100);
+  font-weight: bold;
+  padding: 10px 20px;
+
+}
+
+.aa {
+  display: flex;
+  justify-content: center;
+}

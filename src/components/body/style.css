@@ -1,0 +1,36 @@
+.Carta{
+display: flex;
+flex-direction: row-reverse;
+align-items: center;
+flex-wrap: wrap-reverse;
+background-color: LavenderBlush;
+gap: 50px;
+align-items: center;
+justify-content: center;
+}
+.carta{
+  display: flex;
+  flex-direction: column;
+  background-color:	Plum;
+  border-radius: 20%;
+  box-shadow: 0 5px 10px;
+  padding: 25px;
+  max-width: 400px;
+  min-width: 400px;
+  min-height: 300px;
+}
+.titolo{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 24px;
+  color: #fff0f5e1;
+  margin-bottom: 10px;
+}
+.body{
+  display: flex;
+}
+.likes{
+  background-color: azure;
+  display: flex;
+  max-width: 50px;
+  border-radius: 10px;
+}

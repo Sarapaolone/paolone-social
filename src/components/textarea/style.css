@@ -1,0 +1,41 @@
+.sfondo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 90vh;
+    background-color: LavenderBlush;
+  }
+  textarea{
+   background-color: plum;
+  }
+  #titolo {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    width: 50%;
+    padding: 10px;
+    border-radius: 20px;
+    height: 15%;
+  
+  }
+  #contenuto {
+    width: 50%;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 20px;
+    height: 120%;
+    
+  }
+  .pubblica {
+border: none;
+    background-color: plum;
+    text-align: center;
+    margin: 5px;
+    color: rgb(42, 5, 100);
+    margin-right: 30px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 20px;
+  }
+  
